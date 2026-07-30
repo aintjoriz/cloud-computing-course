@@ -6,6 +6,7 @@ This repo serves as my organized workspace for all course requirements, includin
 - Lab activities and exercises
 - Mini-projects
 - Reflection papers
+
 👤 Student Information
 - Name:  Joriz Caralipio Salvador
 - Course/Section: BSIT - 4H
