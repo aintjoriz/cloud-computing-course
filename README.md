@@ -14,7 +14,7 @@ This repo serves as my organized workspace for all course requirements, includin
 - School Year: 2026-2027
 
 ## 📂 Repository Structure
-cloud-computing-course/        
+cloud-computing-course/  
 ├── activities/
 ├── projects/
 ├── notes/
