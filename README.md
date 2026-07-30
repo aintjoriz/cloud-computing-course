@@ -7,7 +7,7 @@ This repo serves as my organized workspace for all course requirements, includin
 - Mini-projects
 - Reflection papers
 
-👤 Student Information
+# 👤 Student Information
 - Name:  Joriz Caralipio Salvador
 - Course/Section: BSIT - 4H
 - Instructor: Jenkielyn Cortez Torres
