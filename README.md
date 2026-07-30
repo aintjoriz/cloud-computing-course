@@ -12,3 +12,18 @@ This repo serves as my organized workspace for all course requirements, includin
 - Course/Section: BSIT - 4H
 - Instructor: Jenkielyn Cortez Torres
 - School Year: 2026-2027
+
+## 📂 Repository Structure
+cloud-computing-course/
+├── activities/
+├── projects/
+├── notes/
+├── reflections/
+└── README.md
+
+## 📖 Key Concepts Covered
+- Cloud Computing Basics
+- Service Models (IaaS, PaaS, SaaS)
+- Deployment Models (Public, Private, Hybrid, Community)
+- Version Control with Git & GitHub
+- Cloud Infrastructure Management
