@@ -1,1 +1,9 @@
+# Reflection on Cloud Concepts
 
+*On a daily basis, I use different cloud services but without noticing their significance. The three cloud services that I use on a regular basis include Messenger, Google Drive, and GCash. They make my work easier regardless of whether I want to communicate with my friends and classmates, store my school documents or send money.*
+
+- The software application Messenger is classified as a Software as a Service (SaaS). This is because I am able to use the program directly through the app without having to install or manage servers. In addition, its deployment model is the Public Cloud whereby anyone connected to the internet can use it. Just like Messenger, Google Drive is a SaaS application where the user stores, accesses and shares documents on the cloud without worrying about its storage infrastructure. Also, it has a deployment model of the Public Cloud whereby it is available to millions of people using the internet. Finally, GCash is another SaaS application that provides online payment and financial services through a mobile application. I classify it as a Public Cloud because it is available to the public and people are able to use it safely online.
+
+Version control is an important component of cloud infrastructure whereby it keeps track of the changes that occur in a project or file. This will ensure that any mistakes are corrected and the file does not get lost. GitHub is an effective tool whereby team members are able to work on the same project without overwriting each other's work. Additionally, it enables tracking of each change done by the user.
+
+Finally, the activity was useful in showing me that cloud computing is already part of my daily activities. Moreover, it has enabled me to understand the importance of GitHub and version control.
