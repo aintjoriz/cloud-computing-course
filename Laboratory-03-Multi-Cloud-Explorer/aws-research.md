@@ -12,14 +12,14 @@ AWS has Regions and Availability Zones around the world. These help companies ru
 
 The AWS Management Console is a website where users can manage their AWS services.
 
-## Four Core Services
+## Four (4) Core Services
 
   1. Amazon EC2 – runs virtual machines.
   2. Amazon S3 – stores files and data.
   3. Amazon VPC – provides networking.
   4. AWS IAM – manages users and permissions.
 
-## Three Advantages
+## Three (3) Advantages
 
   1. Many cloud services are available.
   2. It can support small and large companies.
