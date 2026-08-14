@@ -5,7 +5,7 @@ Linux Investigation
 - Kernel: 6.8.0-136-generic
 - Architecture: x86_64
 
-## CPU
+## CPU Information
 - Intel Xeon E312xx
 - Speed: 2.0 GHz
 - 1 CPU core
