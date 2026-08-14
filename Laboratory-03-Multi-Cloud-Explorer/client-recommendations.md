@@ -22,7 +22,25 @@
 
 ## Client C – AI Research Company
 
+**Recommended: GCP** 
+
+*I recommend Google Cloud because the company works with AI and Machine Learning. Google Cloud has services that can support AI and high-performance workloads. It also has strong Kubernetes support. The company can use Compute Engine, Google Kubernetes Engine, and Cloud Storage.* 
+
+**Services:** 
+- Compute Engine
+- Google Kubernetes Engine
+- Cloud Storage
+
 ## Client D – Global E-Commerce Company
+
+**Recommended: AWS** 
+
+*I recommend AWS because the company serves customers around the world. AWS has a large global infrastructure that can support applications in different locations. It can also be used to build highly available and scalable applications. The company can use EC2, S3, and Elastic Load Balancing.* 
+
+**Services:** 
+- EC2
+- S3
+- Elastic Load Balancing
 
 Multi-Cloud Decision Matrix
 
