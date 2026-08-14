@@ -12,16 +12,16 @@
 
 ## Answer the following questions in 2–3 sentences each.
 
-**1. Which cloud provider offers the broadest range of services?**
+**1. Which cloud provider offers the broadest range of services?**    
     &nbsp;- I think AWS offers the broadest range of services. It has many services for computing, storage, databases, networking, and other cloud needs.
 
-**2. Which provider best integrates with Microsoft technologies?**
+**2. Which provider best integrates with Microsoft technologies?**    
     &nbsp;- Microsoft Azure is the best choice for Microsoft technologies. It works well with products like Windows Server, Microsoft 365, and Active Directory.
 
-**3. Which provider is strongest in AI and Kubernetes?**
+**3. Which provider is strongest in AI and Kubernetes?**    
     &nbsp;- I think Google Cloud is strong in AI and Kubernetes. It provides AI services and Google Kubernetes Engine for Kubernetes applications.
 
-**4. Which cloud platform would you personally choose and why?**
+**4. Which cloud platform would you personally choose and why?**    
     &nbsp;- I would choose AWS because it has many different services. I think it would give me more options when creating different cloud projects.
 
 Match the Cloud Services
