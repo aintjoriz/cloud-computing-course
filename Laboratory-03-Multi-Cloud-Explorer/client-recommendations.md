@@ -1,14 +1,11 @@
 ## Client A – Startup Company
 
 **Recommended: AWS**
-
 I recommend AWS because the company has a limited budget but expects to grow. AWS has many services that can be increased as the company grows. It can also support mobile applications. The company can use EC2, S3, and RDS.
-
 **Services:**
-
 - EC2
 - S3
-> RDS
+- RDS
 
 ## Client B – University
 
