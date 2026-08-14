@@ -1,5 +1,3 @@
-# AWS Research
-
 ## Brief Overview
 
 ## Global Infrastructure
