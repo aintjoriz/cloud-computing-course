@@ -1,4 +1,4 @@
-# AWS Research
+# Amazon Web Services (AWS) Research
 
 ## Brief Overview
 
