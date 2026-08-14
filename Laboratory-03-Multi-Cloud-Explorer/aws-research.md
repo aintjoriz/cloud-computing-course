@@ -6,8 +6,8 @@
 
 ## Cloud Management Console
 
-## Four Core Services
+## Four (4) Core Services
 
-## Three Advantages
+## Three (3) Advantages
 
 ## Typical Enterprise Use Cases
