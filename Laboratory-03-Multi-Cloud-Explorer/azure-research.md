@@ -9,3 +9,5 @@
 ## Three (3) Advantages
 
 ## Typical Enterprise Use Cases
+
+![Uploading image.png…]()
